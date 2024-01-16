@@ -4,4 +4,4 @@ langchain
 accelerate
 rank_bm25
 sentence_transformers
-openai
+openai==0.28
